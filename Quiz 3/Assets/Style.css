@@ -1,0 +1,9 @@
+body {
+    /* Set the background image URL */
+    background-image: url('yourimage.png');
+    /* Set background size and positioning properties */
+    background-size: cover; /* or 'contain' or other values */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* optional, for fixed backgrounds */
+    background-position: center center;
+}
